@@ -4,3 +4,5 @@ class Equipe :
         self.obra = obra
         self.engenheiro = engenheiro
         self.horas = horas
+
+        #modificao teste
